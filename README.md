@@ -9,9 +9,9 @@ This git repo is for my social justice project on Poverty. There will be documen
 3. My plan
 
 4. My research
-- Statistics
-- What i can do
-- etc.
+    * Statistics
+    * What i can do
+    * etc.
 
 5. How i can help
 
@@ -19,4 +19,4 @@ This git repo is for my social justice project on Poverty. There will be documen
 
 7. My reflection
 
-These documents will be created as the project moves along. 
+These documents will be created as the project moves along.
