@@ -4,19 +4,16 @@ This git repo is for my social justice project on Poverty. There will be documen
 
 1. My mission statement/goal
 
-2. My sphere of influence
+2. My action plan & sphere of influence
 
-3. My plan
+3. My research & how i can help
 
-4. My research
-    * Statistics
-    * What i can do
-    * etc.
+4. My presentation for my class
 
-5. How i can help
+5. My reflection
 
-6. My presentation for my class
+6. Documentation of my action
 
-7. My reflection
+Sorry, no pictures for the documentation. WHere i am going to volunteer does not allow cameras
 
 These documents will be created as the project moves along.
