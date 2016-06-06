@@ -27,9 +27,9 @@ html {
 }
 
 .fade-in.one {
--webkit-animation-delay: 0.7s;
--moz-animation-delay: 0.7s;
-animation-delay: 0.7s;
+-webkit-animation-delay: 0.5s;
+-moz-animation-delay: 0.5s;
+animation-delay: 0.5s;
 }
 
 .fade-in.two {
@@ -39,13 +39,13 @@ animation-delay: 4s;
 }
 
 .fade-in.three {
-    -webkit-animation-delay: 5s;
-    -moz-animation-delay: 5s;
-    animation-delay: 5s;
+    -webkit-animation-delay: 5.5s;
+    -moz-animation-delay: 5.5s;
+    animation-delay: 5s.5;
 }
 
 .fade-in.four {
-    -webkit-animation-delay: 6s;
-    -moz-animation-delay: 6s;
-    animation-delay: 6s;
+    -webkit-animation-delay: 7s;
+    -moz-animation-delay: 7s;
+    animation-delay: 7s;
 }
